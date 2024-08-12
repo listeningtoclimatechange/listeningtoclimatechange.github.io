@@ -10,7 +10,7 @@ permalink: /workshops
 
 **Climate Change Sounds**, OMNILAB Laboratory for Immersive Storytelling, CX Studio, Film University Babelsberg KONRAD WOLF, 30 May 2023
 
-**Climasynth: Developing audible drought manifestations** with Bela Usabaev (Academy of Media Arts Cologne), Environmental Data, Media, and the Humanities
+**Climasynth: Developing Audible Drought Manifestations** with Bela Usabaev (Academy of Media Arts Cologne), Environmental Data, Media, and the Humanities
 a Digital Humanities Hackathon, Haus der Brandenburgisch-Preußischen Geschichte (HBPG), 31 May 2023
 
 **ClimaSynth** with Bela Usabaev (Academy of Media Arts Cologne), Creative Technologies, Faculty II, Film University Babelsberg KONRAD WOLF, 17 January 2024 
