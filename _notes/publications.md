@@ -5,7 +5,7 @@ permalink: /publications
 ---
 
 ### Papers
-Panourgia, E-I. (forthcoming) 'Shaping sounds of future environments', in E.-K. Matthews, J. Burry, and M. Burry (eds) *The Routledge Companion to the Sound of Space*. London: Routledge.
+Panourgia, E-I. (forthcoming) 'Shaping sounds of future environments', in E.-K. Matthews, J. Burry and M. Burry (eds) *The Routledge Companion to the Sound of Space*. London: Routledge.
 
 Panourgia, E-I., Usabaev, B. and Brennecke, A. (forthcoming) 'ClimaSynth: Enhancing Environmental Perception through Climate Change Sonic Interaction', *NIME'24: New Interfaces for Musical Expression*. Utrecht, 4-6 September 2024.
 
