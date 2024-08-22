@@ -29,10 +29,8 @@ Panourgia, E-I. (2023) 'Listening Encounters with the Shifting Rhythms and Frequ
 'Climate Changed Sounds', University of the Peloponnese, Department of Performing and Digital Arts, 18 July 2023.
 
 ### Exhibitions
-2024	
 *Water-drought patterns*, 'News from the World' curated by Carlotta Darò and Nicolas Tixier as part of ‘The Bal Theater’, Night of Ideas, Chicago Architecture Center and Villa Albertine, Chicago, USA, 28 February 2024.
 
-2023	
 *Water-drought patterns*, Radio utopia « 150 Nouvelles du monde » curated by Carlotta Darò and Nicolas Tixier, Journées nationales de l'architecture 2023, Cité de l’architecture et du patrimoine, Paris, France, 14-15 October 2023.
 
 *Water-drought patterns*, ‘News from the World / Radio Utopia’ installation curated by Carlotta Darò and Nicolas Tixier, French Pavillion, XVIII Venice Architecture Biennale, Venice, Italy, 1-5 August 2023.
