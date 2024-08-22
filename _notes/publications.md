@@ -9,7 +9,7 @@ Panourgia, E-I. (forthcoming) 'Shaping sounds of future environments', in E.-K. 
 
 Panourgia, E-I., Usabaev, B. and Brennecke, A. (forthcoming) 'ClimaSynth: Enhancing Environmental Perception through Climate Change Sonic Interaction', *NIME'24: New Interfaces for Musical Expression*. Utrecht, 4-6 September 2024.
 
-Terboven, C., Panourgia, E-I., Arnrich, B. and Steckhan, N. (2023). 'Design, Implementation and	Evaluation of an Air Quality Sonification System', *The 28th International Conference on	Auditory Display (ICAD 2023)*. Norrköping, 26 June - 1 July 2023.	https://doi.org/10.21785/icad2023.4922 
+Terboven, C., Panourgia, E-I., Arnrich, B. and Steckhan, N. (2023). 'Design, Implementation and	Evaluation of an Air Quality Sonification System', *The 28th International Conference on	Auditory Display (ICAD 2023)*. Norrköping, 26 June - 1 July 2023.	[https://doi.org/10.21785/icad2023.4922](https://doi.org/10.21785/icad2023.4922) 
 
 ### Presentations
 Panourgia, E-I., Usabaev, B. and Brennecke, A. (forthcoming) 'ClimaSynth: Enhancing Environmental Perception through Climate Change Sonic Interaction', *NIME'24: New Interfaces for Musical Expression*. Utrecht, 4-6 September 2024.
@@ -21,8 +21,11 @@ Panourgia, E-I. (2023) 'Listening Encounters with the Shifting Rhythms and Frequ
 
 ### Invited talks
 'Ear on earth. The sound of climate change', The Poly Listening Club, Zurich University of the Arts, 7 May 2024.
+
 'Sounds of climate changed landscapes', University of Sheffield, 24 October 2023.
+
 'Sounds of water environments under stress', UNESCO Week of Sound in Edinburgh, 17 October 2023.
+
 'Climate Changed Sounds', University of the Peloponnese, Department of Performing and Digital Arts, 18 July 2023.
 
 ### Exhibitions
@@ -31,7 +34,9 @@ Panourgia, E-I. (2023) 'Listening Encounters with the Shifting Rhythms and Frequ
 
 2023	
 *Water-drought patterns*, Radio utopia « 150 Nouvelles du monde » curated by Carlotta Darò and Nicolas Tixier, Journées nationales de l'architecture 2023, Cité de l’architecture et du patrimoine, Paris, France, 14-15 October 2023.
+
 *Water-drought patterns*, ‘News from the World / Radio Utopia’ installation curated by Carlotta Darò and Nicolas Tixier, French Pavillion, XVIII Venice Architecture Biennale, Venice, Italy, 1-5 August 2023.
+
 *Impro on Environmental Sounds of Schlaatz*, TRANSFORMALE + VERLÄUFE, Rechenzentrum, Potsdam, Germany, 1 July 2023.
 
 ### Broadcasts
