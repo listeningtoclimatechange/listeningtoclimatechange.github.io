@@ -9,7 +9,7 @@ Panourgia, E-I. (2024) 'Shaping sounds of future environments', in E.-K. Matthew
 
 Panourgia, E-I., Usabaev, B. and Brennecke, A. (2024) 'ClimaSynth: Enhancing Environmental Perception through Climate Change Sonic Interaction', *NIME'24: New Interfaces for Musical Expression*. Utrecht, 4-6 September 2024. [https://doi.org/10.5281/zenodo.13904937](https://doi.org/10.5281/zenodo.13904937)
 
-Terboven, C., Panourgia, E-I., Arnrich, B. and Steckhan, N. (2023). 'Design, Implementation and	Evaluation of an Air Quality Sonification System', *The 28th International Conference on	Auditory Display (ICAD 2023)*. Norrköping, 26 June - 1 July 2023.	[https://doi.org/10.21785/icad2023.4922](https://doi.org/10.21785/icad2023.4922) (Best Student Paper Award)
+Terboven, C., Panourgia, E-I., Arnrich, B. and Steckhan, N. (2023) 'Design, Implementation and	Evaluation of an Air Quality Sonification System', *The 28th International Conference on	Auditory Display (ICAD 2023)*. Norrköping, 26 June - 1 July 2023.	[https://doi.org/10.21785/icad2023.4922](https://doi.org/10.21785/icad2023.4922) (Best Student Paper Award)
 
 ### Presentations
 Panourgia, E-I., Usabaev, B. and Brennecke, A. (2024) 'ClimaSynth: Enhancing Environmental Perception through Climate Change Sonic Interaction', *NIME'24: New Interfaces for Musical Expression*. Utrecht, 4-6 September 2024.
