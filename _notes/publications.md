@@ -8,7 +8,7 @@ permalink: /publications
 Panourgia, E-I. (2024). Shaping sounds of future environments. In E.-K. Matthews, J. Burry, & M. Burry (Eds.), *The Routledge Companion to the Sound of Space* (1st ed., pp. 329–341). London: Routledge. [http://dx.doi.org/10.4324/9781003347149-28](http://dx.doi.org/10.4324/9781003347149-28)
 
 ### Conference proceedings
-Panourgia, E-I., Usabaev, B., & Brennecke, A. (2024). ClimaSynth: Enhancing environmental perception through climate change sonic interaction. *Proceedings of the of the International Conference on New Interfaces for Musical Expression, 516–520*. [https://doi.org/10.5281/zenodo.13904937](https://doi.org/10.5281/zenodo.13904937)
+Panourgia, E-I., Usabaev, B., & Brennecke, A. (2024). ClimaSynth: Enhancing environmental perception through climate change sonic interaction. *Proceedings of the of the International Conference on New Interfaces for Musical Expression*, 516–520. [https://doi.org/10.5281/zenodo.13904937](https://doi.org/10.5281/zenodo.13904937)
 
 Terboven, C., Panourgia, E-I., Arnrich, B., & Steckhan, N. (2023). Design, implementation and	evaluation of an air quality sonification system. *Proceedings of the 28th International Conference on	Auditory Display (ICAD 2023)*.	[https://doi.org/10.21785/icad2023.4922](https://doi.org/10.21785/icad2023.4922) (Best Student Paper Award)
 
