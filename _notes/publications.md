@@ -15,7 +15,7 @@ Terboven, C., Panourgia, E-I., Arnrich, B., & Steckhan, N. (2023). Design, imple
 ### Conference presentations
 Panourgia, E-I., Usabaev, B., & Brennecke, A. (2024, September 4–6). *ClimaSynth: Enhancing environmental perception through climate change sonic interaction*. NIME'24: New Interfaces for Musical Expression. Utrecht, The Netherlands.
 
-Panourgia, E-I., & Maier, C. J. (2023, August 29–September 1). *Imaginary devices for Listening to Water: Environmental Change, Wateriness and the Partiality of Perception*.
+Panourgia, E-I., & Maier, C. J. (2023, August 29–September 1). *Imaginary devices for listening to water: Environmental change, wateriness and the partiality of perception*.
 RGS-IBG Annual International Conference 2023, Royal Geographical Society and Imperial College London, London, UK.
 
 Panourgia, E-I. (2023, May 3–6). *Listening encounters with the shifting rhythms and frequencies of climate	change*. Uncommon Senses IV: Sensory Ecologies, Economies, and Aesthetics Conference, Concordia University, Montreal, Canada.
