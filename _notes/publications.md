@@ -23,7 +23,7 @@ Panourgia, E-I. (2023, May 3–6). *Listening encounters with the shifting rhyth
 ### Invited talks
 *Ear on earth. The sound of climate change*, The Poly Listening Club, Zurich University of the Arts, 7 May 2024.
 
-*Sounds of climate changed landscapes*, University of Sheffield, 24 October 2023.
+*Sounds of climate changed landscapes*, Landscape Research Seminar, University of Sheffield, 24 October 2023.
 
 *Sounds of water environments under stress*, UNESCO Week of Sound in Edinburgh, 17 October 2023.
 
