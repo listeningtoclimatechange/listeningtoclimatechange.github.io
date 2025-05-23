@@ -39,4 +39,4 @@ Panourgia, E-I. (2023, May 3–6). *Listening encounters with the shifting rhyth
 *Impro on Environmental Sounds of Schlaatz*, TRANSFORMALE + VERLÄUFE, Rechenzentrum, Potsdam, Germany, 1 July 2023.
 
 ### Broadcasts
-Radio Otherwise with Eleni-Ira Panourgia, Archipel Stations / Radio Otherwise, CTM	Vorspiel, Berlin, Germany, 31 January 2023. 
+*Radio Otherwise with Eleni-Ira Panourgia*, Archipel Stations / Radio Otherwise, CTM	Vorspiel, Berlin, Germany, 31 January 2023. 
